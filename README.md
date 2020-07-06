@@ -1,3 +1,5 @@
+On Linux GCC 9:  [![Build Status](https://travis-ci.org/starquell/algorithms-data-structures.svg?branch=master)](https://travis-ci.org/starquell/algorithms-data-structures)
+
 Also:
  - [Red-Black Tree and Splay Tree](https://github.com/starquell/team-algorithms-oop)
  - [Parallel Quicksort](https://github.com/starquell/labs/tree/master/4thSem/lab3a)
